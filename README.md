@@ -52,7 +52,7 @@ This project is a simple Rock Paper Scissors game implemented using **HTML, CSS,
 
 ## Visual Representation
 
-
+![alt text](image.png)
 
 ## File Structure
 ```
